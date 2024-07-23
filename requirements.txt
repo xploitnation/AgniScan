@@ -1,0 +1,7 @@
+aiohttp
+aioconsole
+asyncio
+argparse
+datetime
+requests
+tqdm
