@@ -49,11 +49,11 @@ Options:
 ## Example Commands
 To scan TCP ports from 1 to 100 on a target IP address:
 ```bash
-python3 agniscan.py example.com -p 1 100 -P tcp
+python3 agniscanv2.py example.com -p 1 100 -P tcp
 ```
 To scan WordPress site or any other with specific NSE scripts:
 ```bash
-python3 agniscan.py <wordpress-site> -p 80 443 -s http-wordpress-enum http-wordpress-brute
+python3 agniscanv2.py <wordpress-site> -p 80 443 -s http-wordpress-enum http-wordpress-brute
 
 ```
 
