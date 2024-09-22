@@ -25,7 +25,7 @@ To get started with Agniscan, clone the repository and install the necessary dep
 
 ```bash
 git clone https://github.com/xploitnation/agniscan.git
-cd agniscanv2
+cd agniscan
 pip3 install -r requirements.txt
 ```
 ## 🎯 Usage
