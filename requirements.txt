@@ -5,3 +5,6 @@ argparse
 datetime
 requests
 tqdm
+nmap-python
+beautifulsoup4
+lxml
