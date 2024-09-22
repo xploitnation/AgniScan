@@ -6,7 +6,6 @@
 
 - **Port Scanning**: Efficiently scan TCP and UDP ports within a specified range.
 - **Service Detection**: Identify and display common services running on the open ports.
-- **Exploit Suggestions**: Get a list of known exploits related to the detected services from the Exploit Database.
 - **Nmap NSE Integration**: Leverage specialized scripts to identify weaknesses and vulnerabilities in various platforms.
 - **Stylish Output**: Enjoy a clean, readable output with color-coded results and formatted tables.
 
